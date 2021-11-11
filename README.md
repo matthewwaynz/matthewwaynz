@@ -1,10 +1,10 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Aspiring developer from Uganda </h3>
 
 <p align="left"> <a href="https://twitter.com/matthew__waynz" target="blank"><img src="https://img.shields.io/twitter/follow/matthew__waynz?logo=twitter&style=for-the-badge" alt="matthew__waynz" /></a> </p>
 
 - 🌱 I’m currently learning **HTML , CSS , VISUAL BASIC**
 
-- 💬 Ask me about **HTML , CSS**
+- 💬 Ask me about **HTML  CSS**
 
 - 📫 How to reach me **nyongezamatthew20@gmail.com**
 
